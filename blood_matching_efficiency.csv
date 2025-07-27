@@ -1,0 +1,9 @@
+Blood Type,Total Requests,Successful Matches,AI Match Score,Avg Response Time (hrs)
+A+,234,227,0.97,1.8
+A-,89,84,0.94,2.4
+B+,198,192,0.97,1.9
+B-,67,61,0.91,3.1
+AB+,45,43,0.96,2.2
+AB-,23,21,0.91,3.8
+O+,312,302,0.97,1.5
+O-,156,148,0.95,2.1
